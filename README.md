@@ -5,7 +5,7 @@ The system intelligently interprets the query, applies medical rules to calculat
 
 The impact is significant: it saves time, reduces errors, and allows doctors, researchers, or administrative staff to get insights instantly without any technical knowledge.
 
-The architecture diagrams attached will help you understand the workflow much, much better—they show step by step how user input flows through AI models and rule engines to produce the final data.
+The architecture diagrams attached will help you understand the workflow much, much better they show step by step how user input flows through AI models and rule engines to produce the final data.
 
 Architecture Diagram:
 
